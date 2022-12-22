@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey👋, nice to see you.
 
 <!--
 **JAQBKRU/JAQBKRU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
