@@ -11,38 +11,41 @@
   I'm a passionate <strong>Computer Science student</strong> who loves solving real-world problems and building impactful projects. I am always eager to learn new technologies and improve my coding skills.
 </p>
 
-<!-- Section: My Skills -->
-## 🧰 My Skills
+<!-- Section: My Skills and GitHub Stats side by side -->
+<div style="display: flex; justify-content: space-between; padding: 0 10%;">
 
-**Programming Languages**: Java, Python, TypeScript, Prolog  
-**Web Technologies**: HTML, CSS, Angular, Node.js, Spring Boot  
-**Databases**: MySQL, PostgreSQL  
-**Tools & Platforms**: Git, Docker, Postman, VirtualBox  
+  <!-- Left side: My Skills -->
+  <div style="width: 45%; padding-right: 20px;">
+    <h2>🧰 My Skills</h2>
+    <p><strong>Programming Languages:</strong> Java, Python, TypeScript, Prolog</p>
+    <p><strong>Web Technologies:</strong> HTML, CSS, Angular, Node.js, Spring Boot</p>
+    <p><strong>Databases:</strong> MySQL, PostgreSQL</p>
+    <p><strong>Tools & Platforms:</strong> Git, Docker, Postman, VirtualBox</p>
 
-**Current Courses**:  
-Spring Boot, Angular
+    <h3>Current Courses:</h3>
+    <p>Spring Boot, Angular</p>
+    
+    <h3>Languages:</h3>
+    <p>Java • Python • TypeScript</p>
 
-**Languages**:  
-Java • Python • TypeScript
+    <h3>Web Development:</h3>
+    <p>HTML • CSS • Angular • Node.js • Spring Boot</p>
 
-**Web Development**:  
-HTML • CSS • Angular • Node.js • Spring Boot
+    <h3>Databases:</h3>
+    <p>MySQL • PostgreSQL</p>
 
-**Databases**:  
-MySQL • PostgreSQL
+    <h3>Tools & Platforms:</h3>
+    <p>Git • Docker • Postman • VirtualBox</p>
 
-**Tools & Platforms**:  
-Git • Docker • Postman • VirtualBox
+    <h3>Current Projects:</h3>
+    <p>BugTracker Project</p>
+  </div>
 
-**Current Projects**:  
-BugTracker Project
+  <!-- Right side: GitHub Stats -->
+  <div style="width: 45%; text-align: center;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JAQBKRU&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+  </div>
 
----
-
-<!-- Section: GitHub Stats and Most Used Languages -->
-
-<div align="right">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JAQBKRU&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
 </div>
 
 <!-- Section for Projects -->
