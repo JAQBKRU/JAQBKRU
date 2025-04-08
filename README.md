@@ -1,8 +1,6 @@
 ### Hey👋, nice to see you.
 
 
-![](https://github-readme-stats.vercel.app/api?username=Aneal07&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=JAQBKRU&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=JAQBKRU&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <h3 align="left">Languages and Tools:</h3>
