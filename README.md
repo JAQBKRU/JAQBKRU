@@ -51,26 +51,3 @@ BugTracker Project - [Check out!](https://github.com/JAQBKRU/)
     </a>
   </p>
 </div>
-
-
-<!-- Section for Projects -->
-## 🚀 Projects
-
-<div align="center">
-  <a href="https://github.com/JAQBKRU/PROJECT_1">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JAQBKRU&repo=PROJECT_1&theme=tokyonight" />
-  </a> 
-  <a href="https://github.com/JAQBKRU/PROJECT_2">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JAQBKRU&repo=PROJECT_2&theme=tokyonight" />
-  </a> 
-</div>
-
-<!-- Technologies I Know -->
-<div align="center">
-  <h2>Technologies That I Know</h2>
-  <p>
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=angular,bootstrap,c,cpp,css,docker,fastapi,git,idea,js,php,postman,postgres,pycharm,py,react,spring,unity,ubuntu,java,github,html,linux,mysql,vscode=14" />
-    </a>
-  </p>
-</div>
