@@ -25,10 +25,8 @@ PostgreSQL • MySQL
 **Tools & Platforms:**  
 Git • Docker • Postman • GitHub
 
-## 🧰 My Skills
-
 **Current Projects**:  
-BugTracker Project
+BugTracker Project - [Check out!](https://github.com/JAQBKRU/)
 
 ---
 
