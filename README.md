@@ -13,7 +13,7 @@
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
-<picture> <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JAQBKRU&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width = 250px></picture>
+<picture> <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JAQBKRU&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width = 250px height = 250px></picture>
 
 <br><br>
 
