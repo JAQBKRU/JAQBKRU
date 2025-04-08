@@ -11,41 +11,21 @@
   I'm a passionate <strong>Computer Science student</strong> who loves solving real-world problems and building impactful projects. I am always eager to learn new technologies and improve my coding skills.
 </p>
 
-## About me
 <picture> <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JAQBKRU&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width = 250px></picture>
-
-- :school: I am a `3rd-year Computer Science student` at [Your University Name].
-- :trophy: Passionate about solving real-world problems using programming.
-- :technologist: I love using software as a solution for every `problem`.
-- :computer: I am a competitive programmer at `Codeforces`, `Leetcode`, and other platforms.
-- :student: Currently learning `Computer Science` and focused on developing software engineering skills.
-- :nerd_face: Always `learning new things` and exploring new technologies.
-- :thinking: I’m currently open for a `job opportunity`, this is [MY RESUME](your-resume-link).
-- :boom: You can visit [MY WEBSITE](your-website-link).
-
----
-
-## 🧰 My Skills
-
-**Programming Languages**: Java, Python, TypeScript, Prolog  
-**Web Technologies**: HTML, CSS, Angular, Node.js, Spring Boot  
-**Databases**: MySQL, PostgreSQL  
-**Tools & Platforms**: Git, Docker, Postman, VirtualBox  
-
-**Current Courses**:  
-Spring Boot, Angular
-
-**Languages**:  
+## Tech Stack
+**Languages:**  
 Java • Python • TypeScript
 
-**Web Development**:  
-HTML • CSS • Angular • Node.js • Spring Boot
+**Web Development:**  
+Angular • Spring Boot • Node.js • HTML • CSS • Bootstrap
 
-**Databases**:  
-MySQL • PostgreSQL
+**Databases:**  
+PostgreSQL • MySQL
 
-**Tools & Platforms**:  
-Git • Docker • Postman • VirtualBox
+**Tools & Platforms:**  
+Git • Docker • Postman • GitHub
+
+## 🧰 My Skills
 
 **Current Projects**:  
 BugTracker Project
