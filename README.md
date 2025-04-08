@@ -21,24 +21,6 @@
     <p><strong>Web Technologies:</strong> HTML, CSS, Angular, Node.js, Spring Boot</p>
     <p><strong>Databases:</strong> MySQL, PostgreSQL</p>
     <p><strong>Tools & Platforms:</strong> Git, Docker, Postman, VirtualBox</p>
-
-    <h3>Current Courses:</h3>
-    <p>Spring Boot, Angular</p>
-    
-    <h3>Languages:</h3>
-    <p>Java • Python • TypeScript</p>
-
-    <h3>Web Development:</h3>
-    <p>HTML • CSS • Angular • Node.js • Spring Boot</p>
-
-    <h3>Databases:</h3>
-    <p>MySQL • PostgreSQL</p>
-
-    <h3>Tools & Platforms:</h3>
-    <p>Git • Docker • Postman • VirtualBox</p>
-
-    <h3>Current Projects:</h3>
-    <p>BugTracker Project</p>
   </div>
 
   <!-- Right side: GitHub Stats -->
