@@ -14,8 +14,6 @@
 ## About me
 <picture> <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JAQBKRU&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width = 250px height = 250px></picture>
 
-<br><br>
-
 - :school: I am a `3rd-year Computer Science student` at [Your University Name].
 - :trophy: Passionate about solving real-world problems using programming.
 - :technologist: I love using software as a solution for every `problem`.
