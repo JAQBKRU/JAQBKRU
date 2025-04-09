@@ -32,12 +32,12 @@ BugTracker Project - [Check out!](https://github.com/JAQBKRU/)
 <!-- Section for Projects -->
 <h2>Projects</h2>
 <div align="center">
-  <a href="https://github.com/JAQBKRU/LibraryManagementAPI">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JAQBKRU&repo=LibraryManagementAPI&theme=tokyonight" />
-  </a> 
-  <a href="https://github.com/JAQBKRU/BugTracker">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JAQBKRU&repo=BugTracker&theme=tokyonight" />
-  </a> 
+  <a href="https://github.com/JAQBKRU/library-management-api">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JAQBKRU&repo=library-management-api&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/JAQBKRU/bug-tracker">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JAQBKRU&repo=bug-tracker&theme=tokyonight" />
+  </a>
 </div>
 
 <!-- Technologies I Know -->
