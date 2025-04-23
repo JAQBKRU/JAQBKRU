@@ -9,7 +9,7 @@
   I'm a third-year <strong>Computer Science student</strong> with a passion for programming and technology! I really enjoy solving different coding problems. Right now, I'm improving my skills in Spring Boot and Angular while gaining practical experience with a Bug Tracker Project.
 </p>
 
-<picture> <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JAQBKRU&layout=compact&theme=radical" width = 250px height = 250px></picture>
+<picture> <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JAQBKRU&layout=compact&theme=radical&hide=php" width = 250px height = 250px></picture>
 
 ## Tech Stack
 **Languages:**  
